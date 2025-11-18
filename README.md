@@ -1,6 +1,6 @@
 # Unique Image Resizer
 
-Welcome to the **Unique Image Resizer**, a tool to resize individual images or multiple images within a directory. You can upload an image or a zip folder, specify new dimensions, and have the images resized and saved in your preferred output directory. This tool is built using Python, PIL (Pillow), and Streamlit.
+Welcome to the **Unique Image Resizer** , a tool to resize individual images or multiple images within a directory. You can upload check by adding an image or a zip folder, specify new dimensions, and have the images resized and saved in your preferred output directory. This tool is built using Python, PIL (Pillow), and Streamlit.
 
 ## Features
 
